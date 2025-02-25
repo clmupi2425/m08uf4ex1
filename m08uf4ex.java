@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package m08uf4ex;
+package m08uf4ex1;
 
 /**
  *
- * @author dcolla2
+ * @author claudia_munoz
  */
 
 import java.util.Date;
@@ -16,7 +16,7 @@ import java.text.SimpleDateFormat;
 import java.io.*;
 
 
-public class m08uf4ex {
+public class m08uf4ex1 {
 
     /**
      * @param args the command line arguments
